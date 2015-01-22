@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of n Numbers\bin\Debug\Sum of n Numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of n Numbers\bin\Debug\Sum of n Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of n Numbers\bin\Debug\Sum of n Numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of n Numbers\obj\Debug\Sum of n Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of n Numbers\obj\Debug\Sum of n Numbers.pdb

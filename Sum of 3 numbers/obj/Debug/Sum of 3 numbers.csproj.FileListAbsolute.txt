@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 3 numbers\bin\Debug\Sum of 3 numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 3 numbers\bin\Debug\Sum of 3 numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 3 numbers\bin\Debug\Sum of 3 numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 3 numbers\obj\Debug\Sum of 3 numbers.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 3 numbers\obj\Debug\Sum of 3 numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 3 numbers\obj\Debug\Sum of 3 numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Print Company Information\bin\Debug\Print Company Information.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Print Company Information\bin\Debug\Print Company Information.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Print Company Information\bin\Debug\Print Company Information.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Print Company Information\obj\Debug\Print Company Information.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Print Company Information\obj\Debug\Print Company Information.pdb

@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.pdb

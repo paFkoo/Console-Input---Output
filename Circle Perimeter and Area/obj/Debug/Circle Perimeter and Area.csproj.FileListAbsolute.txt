@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Circle Perimeter and Area\bin\Debug\Circle Perimeter and Area.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Circle Perimeter and Area\bin\Debug\Circle Perimeter and Area.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Circle Perimeter and Area\bin\Debug\Circle Perimeter and Area.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Circle Perimeter and Area\obj\Debug\Circle Perimeter and Area.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Circle Perimeter and Area\obj\Debug\Circle Perimeter and Area.pdb

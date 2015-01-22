@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Лекция 4\Лекция 4 Solution\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.pdb
